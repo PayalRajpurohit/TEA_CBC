@@ -1,1 +1,1 @@
-# TEA_CBC
+Here we have modified TEA algorithm and used Cypher Block Chaining which will encryption and decryption algorithms within a chain of blocks according the specifications of CBC (64 bit block size). Our output would be able to show the entire message or even portions of the message both encrypted and then later decrypted. 
